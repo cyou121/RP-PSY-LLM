@@ -1,0 +1,302 @@
+[
+    {
+        "id": 0,
+        "statement": "Am the life of the party.",
+        "dimension": "EXT",
+        "math": "+"
+    },
+    {
+        "id": 1,
+        "statement": "Feel little concern for others.",
+        "dimension": "AGR",
+        "math": "-"
+    },
+    {
+        "id": 2,
+        "statement": "Am always prepared.",
+        "dimension": "CON",
+        "math": "+"
+    },
+    {
+        "id": 3,
+        "statement": "Get stressed out easily.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 4,
+        "statement": "Have a rich vocabulary.",
+        "dimension": "OPE",
+        "math": "+"
+    },
+    {
+        "id": 5,
+        "statement": "Don't talk a lot.",
+        "dimension": "EXT",
+        "math": "-"
+    },
+    {
+        "id": 6,
+        "statement": "Am interested in people.",
+        "dimension": "AGR",
+        "math": "+"
+    },
+    {
+        "id": 7,
+        "statement": "Leave my belongings around.",
+        "dimension": "CON",
+        "math": "-"
+    },
+    {
+        "id": 8,
+        "statement": "Am relaxed most of the time.",
+        "dimension": "NEU",
+        "math": "+"
+    },
+    {
+        "id": 9,
+        "statement": "Have difficulty understanding abstract ideas.",
+        "dimension": "OPE",
+        "math": "-"
+    },
+    {
+        "id": 10,
+        "statement": "Feel comfortable around people.",
+        "dimension": "EXT",
+        "math": "+"
+    },
+    {
+        "id": 11,
+        "statement": "Insult people.",
+        "dimension": "AGR",
+        "math": "-"
+    },
+    {
+        "id": 12,
+        "statement": "Pay attention to details.",
+        "dimension": "CON",
+        "math": "+"
+    },
+    {
+        "id": 13,
+        "statement": "Worry about things.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 14,
+        "statement": "Have a vivid imagination.",
+        "dimension": "OPE",
+        "math": "+"
+    },
+    {
+        "id": 15,
+        "statement": "Keep in the background.",
+        "dimension": "EXT",
+        "math": "-"
+    },
+    {
+        "id": 16,
+        "statement": "Sympathize with others' feelings.",
+        "dimension": "AGR",
+        "math": "+"
+    },
+    {
+        "id": 17,
+        "statement": "Make a mess of things.",
+        "dimension": "CON",
+        "math": "-"
+    },
+    {
+        "id": 18,
+        "statement": "Seldom feel blue.",
+        "dimension": "NEU",
+        "math": "+"
+    },
+    {
+        "id": 19,
+        "statement": "Am not interested in abstract ideas.",
+        "dimension": "OPE",
+        "math": "-"
+    },
+    {
+        "id": 20,
+        "statement": "Start conversations.",
+        "dimension": "EXT",
+        "math": "+"
+    },
+    {
+        "id": 21,
+        "statement": "Am not interested in other people's problems.",
+        "dimension": "AGR",
+        "math": "-"
+    },
+    {
+        "id": 22,
+        "statement": "Get chores done right away.",
+        "dimension": "CON",
+        "math": "+"
+    },
+    {
+        "id": 23,
+        "statement": "Am easily disturbed.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 24,
+        "statement": "Have excellent ideas.",
+        "dimension": "OPE",
+        "math": "+"
+    },
+    {
+        "id": 25,
+        "statement": "Have little to say.",
+        "dimension": "EXT",
+        "math": "-"
+    },
+    {
+        "id": 26,
+        "statement": "Have a soft heart.",
+        "dimension": "AGR",
+        "math": "+"
+    },
+    {
+        "id": 27,
+        "statement": "Often forget to put things back in their proper place.",
+        "dimension": "CON",
+        "math": "-"
+    },
+    {
+        "id": 28,
+        "statement": "Get upset easily.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 29,
+        "statement": "Do not have a good imagination.",
+        "dimension": "OPE",
+        "math": "-"
+    },
+    {
+        "id": 30,
+        "statement": "Talk to a lot of different people at parties.",
+        "dimension": "EXT",
+        "math": "+"
+    },
+    {
+        "id": 31,
+        "statement": "Am not really interested in others.",
+        "dimension": "AGR",
+        "math": "-"
+    },
+    {
+        "id": 32,
+        "statement": "Like order.",
+        "dimension": "CON",
+        "math": "+"
+    },
+    {
+        "id": 33,
+        "statement": "Change my mood a lot.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 34,
+        "statement": "Am quick to understand things.",
+        "dimension": "OPE",
+        "math": "+"
+    },
+    {
+        "id": 35,
+        "statement": "Don't like to draw attention to myself.",
+        "dimension": "EXT",
+        "math": "-"
+    },
+    {
+        "id": 36,
+        "statement": "Take time out for others.",
+        "dimension": "AGR",
+        "math": "+"
+    },
+    {
+        "id": 37,
+        "statement": "Shirk my duties.",
+        "dimension": "CON",
+        "math": "-"
+    },
+    {
+        "id": 38,
+        "statement": "Have frequent mood swings.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 39,
+        "statement": "Use difficult words.",
+        "dimension": "OPE",
+        "math": "+"
+    },
+    {
+        "id": 40,
+        "statement": "Don't mind being the center of attention.",
+        "dimension": "EXT",
+        "math": "+"
+    },
+    {
+        "id": 41,
+        "statement": "Feel others' emotions.",
+        "dimension": "AGR",
+        "math": "+"
+    },
+    {
+        "id": 42,
+        "statement": "Follow a schedule.",
+        "dimension": "CON",
+        "math": "+"
+    },
+    {
+        "id": 43,
+        "statement": "Get irritated easily.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 44,
+        "statement": "Spend time reflecting on things.",
+        "dimension": "OPE",
+        "math": "+"
+    },
+    {
+        "id": 45,
+        "statement": "Am quiet around strangers.",
+        "dimension": "EXT",
+        "math": "-"
+    },
+    {
+        "id": 46,
+        "statement": "Make people feel at ease.",
+        "dimension": "AGR",
+        "math": "+"
+    },
+    {
+        "id": 47,
+        "statement": "Am exacting in my work.",
+        "dimension": "CON",
+        "math": "+"
+    },
+    {
+        "id": 48,
+        "statement": "Often feel blue.",
+        "dimension": "NEU",
+        "math": "-"
+    },
+    {
+        "id": 49,
+        "statement": "Am full of ideas.",
+        "dimension": "OPE",
+        "math": "+"
+    }
+]
