@@ -1,3 +1,6 @@
+RP-PSY-LLM is a Python-based project designed to simulate and evaluate language model agents with specific BIG-5 personality traits through representation engineering.
+
+
 ## Setup
 1. Install packages with pipenv.
    ```sh
